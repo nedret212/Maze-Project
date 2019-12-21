@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1511818193 source:c:\users\ned\desktop\p1_p3_2\main.cpp
+	<iostream>
+	<stdio.h>
+	<graphics.h>
+	<conio.h>
+	<math.h>
+	<time.h>
+	<stdlib.h>
+
+1511818193 source:c:\users\ned\desktop\140202121 - 150202114\p1_p3_2\main.cpp
+	<iostream>
+	<stdio.h>
+	<graphics.h>
+	<conio.h>
+	<math.h>
+	<time.h>
+	<stdlib.h>
+
+1511818193 source:d:\mühendislik\2017 - 2018\güz dönemi\prolab 1\proje 3\140202121 - 150202114\p1_p3_2\main.cpp
+	<iostream>
+	<stdio.h>
+	<graphics.h>
+	<conio.h>
+	<math.h>
+	<time.h>
+	<stdlib.h>
+
